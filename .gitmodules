@@ -1,0 +1,6 @@
+[submodule "marco_nest_utils"]
+	path = marco_nest_utils
+	url = https://github.com/marcobiasizzo/marco_nest_utils
+[submodule "BGs_nest"]
+	path = BGs_nest
+	url = https://github.com/marcobiasizzo/BGs_nest
